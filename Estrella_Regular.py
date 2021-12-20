@@ -1,6 +1,6 @@
 def dibujar_estrella(dimensión,color):
     contar = 0
-    ángulo = 144
+    ángulo = 80
 
     while contar <= 9:
         turtle.forward(dimensión)
